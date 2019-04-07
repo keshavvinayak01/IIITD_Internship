@@ -1,0 +1,92 @@
+,text,Date and time,number of favorites/likes,retweets count,images
+0,"We request all students whose interview are scheduled today to join at the time given to them and not before or after. We have other interviews scheduled which will be affected. 
+Thanks much.",Sun Apr 07 11:43:24 +0000 2019,0,0,
+1,"Other queries: ""none of the Tweeter Apis give the correct count of favorites tested for most of them, all give the wrong count. same is true for retweet. this mostly happens if the no. of likes, retweet is very large. So, what shld be done?""
+Ans: Just use the count given by API.",Sun Apr 07 06:55:19 +0000 2019,3,2,
+2,"Other queries: ""do we have to make two different repositories on Github as ""Python Problem"" and ""CV Problem"". Or we have to make a single repository named ""root"" and upload our code in that?""
+And: Have one repository of any name which has two folders. One python and other cv/nlp",Sun Apr 07 06:53:38 +0000 2019,3,1,
+3,"RT @midasIIITD: Response to some queries asked by students on @midasIIITD task.
+What does the line ""dump the responses into JSONlines file""…",Sun Apr 07 06:50:11 +0000 2019,0,1,
+4,"Other queries: ""If using Twitter api, it does not include any information about images in the response objects sent, so how do we retrieve the image info as requested?""
+Ans: U have to use twitter api or wrappers based on it like tweepy.
+Twitter API does provide image information.",Sun Apr 07 05:32:27 +0000 2019,4,1,
+5,"Response to some queries asked by students on @midasIIITD task.
+What does the line ""dump the responses into JSONlines file"" mean?
+It means you have to dump the response into a jsonlines file. jsonlines is a file extension more popularly know as .jsonl
+#MIDAS #Research #Internship",Sun Apr 07 05:29:40 +0000 2019,6,1,
+6,"RT @midasIIITD: @nupur_baghel @PennDATS Congratulation @nupur_baghel on getting admit from @PennDATS. 
+She got 5/10 acceptance. She has wor…",Sat Apr 06 18:42:01 +0000 2019,0,3,
+7,"RT @midasIIITD: @nupur_baghel @PennDATS Congratulation @nupur_baghel on getting admit from @PennDATS. 
+She got 5/10 acceptance. She has wor…",Sat Apr 06 17:54:43 +0000 2019,0,3,
+8,RT @kdnuggets: Top 8 #Free Must-Read #Books on #DeepLearning #KDN https://t.co/1DtlN91Yjj,Sat Apr 06 17:11:29 +0000 2019,0,2,
+9,"RT @midasIIITD: @nupur_baghel @PennDATS Congratulation @nupur_baghel on getting admit from @PennDATS. 
+She got 5/10 acceptance. She has wor…",Sat Apr 06 16:44:58 +0000 2019,0,3,
+10,"@nupur_baghel @PennDATS Congratulation @nupur_baghel on getting admit from @PennDATS. 
+She got 5/10 acceptance. She has worked at @midasIIITD on the #kikichallenge problem. We are glad to know that it inspired her to pursue further research. We wish her a great success ahead. 
+#MSc #DataScience #UPenn https://t.co/2daLOHGPBU",Sat Apr 06 16:43:27 +0000 2019,15,3,1.0
+11,@RatnRajiv @nupur_baghel @midasIIITD @the_dhumketu @WiMLDS_Delhi @shubhi_sareen @GoAbiAryan Thanks a lot sir 😁,Sat Apr 06 15:58:15 +0000 2019,1,0,
+12,@RatnRajiv @midasIIITD @the_dhumketu @WiMLDS_Delhi @shubhi_sareen @GoAbiAryan @paavininanda Thank you for the wishes sir 😇,Sat Apr 06 10:51:05 +0000 2019,1,0,
+13,@the_dhumketu @midasIIITD @RatnRajiv @WiMLDS_Delhi @shubhi_sareen @GoAbiAryan Indeed! Thanks Yaman :),Sat Apr 06 10:33:21 +0000 2019,0,0,
+14,"@nupur_baghel @midasIIITD @RatnRajiv @WiMLDS_Delhi @shubhi_sareen @GoAbiAryan Great news! 
+Congratulations, Nupur!",Sat Apr 06 10:26:16 +0000 2019,0,0,
+15,"@nupur_baghel @midasIIITD @the_dhumketu @WiMLDS_Delhi @shubhi_sareen @GoAbiAryan Long way to go @nupur_baghel @paavininanda 
+
+Good luck.",Sat Apr 06 08:59:02 +0000 2019,2,0,
+16,@midasIIITD @RatnRajiv sir and @the_dhumketu who got me into track for Multimedia using ML. @WiMLDS_Delhi @shubhi_sareen and @GoAbiAryan who provided me an awesome platform and been an inspiration 😍,Sat Apr 06 07:46:38 +0000 2019,13,0,
+17,RT @midasIIITD: We have emailed the task details to all candidates who have applied to @midasIIITD internship through IIITD portal. Kindly…,Fri Apr 05 19:06:46 +0000 2019,0,1,
+18,We have emailed the task details to all candidates who have applied to @midasIIITD internship through IIITD portal. Kindly check your spam folder if you have not received the email. We will evaluate all solutions received until April 10 midnight and announce results by April 14.,Fri Apr 05 16:08:37 +0000 2019,10,1,
+19,"RT @rfpvjr: Our NAACL paper on polarization in language on Twitter surrounding mass shootings is up on arXiv! https://t.co/g7wiegXxDg
+This…",Fri Apr 05 04:05:11 +0000 2019,0,16,
+20,RT @kdnuggets: Effective Transfer Learning For NLP https://t.co/Z1m0AzlfVv https://t.co/ccX4Uhxjn8,Fri Apr 05 04:04:43 +0000 2019,0,10,1.0
+21,RT @stanfordnlp: What’s new in @Stanford CS224N Natural Language Processing with Deep Learning for 2019? Question answering—1D CNNs—subword…,Wed Apr 03 18:31:53 +0000 2019,0,59,
+22,"RT @DeepMindAI: Today we're releasing a large-scale extendable dataset of mathematical questions, for training (and evaluating the abilitie…",Wed Apr 03 17:04:32 +0000 2019,0,848,
+23,@DeepMindAI @midasIIITD @astu9880 @the_dhumketu,Wed Apr 03 13:51:32 +0000 2019,2,0,
+24,"RT @ylecun: Congratulations Jitendra Malik !
+
+Awards are raining on FAIRies these days... https://t.co/1WNcSeQLZe",Wed Apr 03 09:03:40 +0000 2019,0,16,
+25,"RT @IIITDelhi: Another chance to take admission in the Ph.D. program in IIIT Delhi. 
+Admissions open for Ph.D. program mathematics 
+
+Log on…",Wed Apr 03 07:46:02 +0000 2019,0,4,
+26,"RT @midasIIITD: Dear @midasIIITD internship candidates who have submitted their solutions to the task, we have sent you an email regarding…",Tue Apr 02 04:38:56 +0000 2019,0,1,
+27,"Dear @midasIIITD internship candidates who have submitted their solutions to the task, we have sent you an email regarding your results. 
+
+Students who have applied through @IIITDelhi, you will soon be contacted on the internship task. 
+
+#MIDAS #Summer #Research #Internship",Tue Apr 02 04:20:13 +0000 2019,8,1,
+28,"Looking forward to your paper submission to @IEEEBigMM19. 
+
+Important Dates:
+Regular Paper: 11:59pm PST, May 10, 2019     
+Short Paper: 11:59pm PST, May 10, 2019   
+Industry Paper: 11:59pm PST, May 10, 2019  
+Demonstration Paper: 11:59pm PST, May 10, 2019
+
+Contact TPC @RatnRajiv",Tue Apr 02 02:44:54 +0000 2019,5,1,
+29,RT @ngrams: Reproducibility in multimedia research in @sigmm records https://t.co/hOyMxtmy7A Plus reminder to past-year authors: Today 1 Ap…,Tue Apr 02 02:35:44 +0000 2019,0,7,
+30,"Online application for https://t.co/DJFDrQsHZP. Admission 2019 at @IIITDelhi has been open
+
+Log on to know more and apply: https://t.co/w7d2UMTVh7
+
+Last Date: 18th April 2019
+
+#MTech #IIITD #Admission",Mon Apr 01 06:53:08 +0000 2019,7,2,
+31,RT @ACMMM19: A final reminder of the Reproducibility Track: Authors of 2017 and 2018 papers are invited to submit a short reproducibility p…,Sun Mar 31 10:21:24 +0000 2019,0,10,
+32,"RT @midasIIITD: Since SemEval-2019 will be held June 6-7, 2019 in Minneapolis, USA, collocated with NAACL-HLT 2019, it will great students…",Sat Mar 30 02:17:10 +0000 2019,0,1,
+33,RT @isarth23: Thanks for the support and help @debanjanbhucs @RatnRajiv and @midasIIITD. It was a great learning experience! Glad to be par…,Fri Mar 29 19:43:24 +0000 2019,0,2,
+34,"RT @midasIIITD: Congratulations! @midasIIITD team, @isarth23 @LaibaMehnaz @Simcyy @debanjanbhucs @RatnRajiv @the_dhumketu for getting two p…",Fri Mar 29 18:48:31 +0000 2019,0,1,
+35,RT @isarth23: Thanks for the support and help @debanjanbhucs @RatnRajiv and @midasIIITD. It was a great learning experience! Glad to be par…,Fri Mar 29 18:48:10 +0000 2019,0,2,
+36,Thanks for the support and help @debanjanbhucs @RatnRajiv and @midasIIITD. It was a great learning experience! Glad to be part of the team. https://t.co/g45tIJQ18s,Fri Mar 29 18:45:35 +0000 2019,7,2,
+37,"Since SemEval-2019 will be held June 6-7, 2019 in Minneapolis, USA, collocated with NAACL-HLT 2019, it will great students for @midasIIITD students to attend the conference and learn from worldclass researchers. +@aggarwal_kartik",Fri Mar 29 17:16:40 +0000 2019,9,1,
+38,"+@aggarwal_kartik.
+Congrats! Wish you many more success.",Fri Mar 29 17:04:30 +0000 2019,2,0,
+39,"RT @aggarwal_kartik: Our work (@midasIIITD ) accepted at SemEval 2019 at @NAACLHLT : ""MIDAS at SemEval-2019 Task 9: Suggestion Mining from…",Fri Mar 29 17:03:29 +0000 2019,0,1,
+40,"Congratulations! @midasIIITD team, @isarth23 @LaibaMehnaz @Simcyy @debanjanbhucs @RatnRajiv @the_dhumketu for getting two papers accepted at SemEval 2019. 
+Many thanks to our collaborators Haimin and Karan for their help.
+
+#NLP #Research #SocialMedia #Analytics #DeepLearning",Fri Mar 29 17:02:24 +0000 2019,9,1,
+41,"Our work (@midasIIITD ) accepted at SemEval 2019 at @NAACLHLT : ""MIDAS at SemEval-2019 Task 9: Suggestion Mining from Online Reviews using ULMFiT"". 
+We ranked 10th on the leaderboard. Code available at: https://t.co/Yuqbc3WjnB",Fri Mar 29 16:58:43 +0000 2019,6,1,
+42,"@EEMLcommunity @radamihalcea too many deadlines coming, @ACMMM19 @IEEEBigMM19 @EEMLcommunity",Fri Mar 29 05:35:22 +0000 2019,0,0,
+43,"RT @stanfordnlp: CS224N Natural Language Processing with Deep Learning 2019 @Stanford course videos by @chrmanning, @abigail_e_see &amp; guests…",Thu Mar 28 16:55:01 +0000 2019,0,715,
+44,RT @ylecun: Learn PyTorch by running on Google GPUs for free. https://t.co/pt038TMnWR,Thu Mar 28 16:54:37 +0000 2019,0,157,
